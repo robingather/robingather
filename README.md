@@ -90,7 +90,7 @@
 - [Celestial Sounds - Sleep in Space (Android App)](http://www.robingather.com/work-2#celestial-sounds)
 - [Any Journey - Procedural Open-World RPG](http://www.robingather.com/work-2#block-any-journey)
 
-▶ [more work...](http://robingather.com/work-2)
+▶ [View my Portfolio](http://robingather.com/work-2)
 
 
 
