@@ -9,7 +9,7 @@
 - 🍑 I also like to [draw](http://art.robingather.com), write and go to the gym.
 
 ▶ [More about me](http://robingather.com/about)<br>
-▶ [My Website](http://robingather.com)<br>
+▶ [My website](http://robingather.com)<br>
 ▶ [LinkedIn](https://linkedin.com/in/robingather)
 
 ---
@@ -90,7 +90,7 @@
 - [Celestial Sounds - Sleep in Space (Android App)](http://www.robingather.com/work-2#celestial-sounds)
 - [Any Journey - Procedural Open-World RPG](http://www.robingather.com/work-2#block-any-journey)
 
-▶ [View my Portfolio](http://robingather.com/work-2)
+▶ [View my portfolio](http://robingather.com/work-2)
 
 
 
