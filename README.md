@@ -1,7 +1,7 @@
 # Hello, My name is Robin Gather 👀
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-## Software Engineering <br> is < my passion []]>
+## Software Engineering is [<bold>my passion</bold>]([])
 
 - 🎓 I've just graduated with a BSc in Artificial Intelligence from Radboud University.
 - 🔥 I'm currently studying my Master's at the Jheronimus Academy of Data Science in Den Bosch.
