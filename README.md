@@ -19,7 +19,7 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)]
+[![website](./img/globe-light.svg)]([website])
 [![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
