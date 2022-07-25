@@ -19,8 +19,8 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://robingather.com)
-[![website](./img/globe-dark.svg)](https://robingather.com)
+[![website](./img/globe-light.svg)](https://robingather.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://robingather.com#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/robingather)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
