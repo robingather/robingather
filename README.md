@@ -8,8 +8,8 @@
 - 🙌 Check out my [project portfolio](http://robingather.com/work-2), which is running on a Raspberry Pi in my utility closet.
 - 🍑 I also like to [draw](http://art.robingather.com), write and go to the gym.
 
-▶ [more about me...](http://robingather.com/about)
-▶ [my website](http://robingather.com)
+▶ [more about me...](http://robingather.com/about)<br>
+▶ [my website](http://robingather.com)<br>
 ▶ [LinkedIn](https://linkedin.com/in/robingather)
 
 ---
