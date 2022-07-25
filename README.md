@@ -5,8 +5,8 @@
 
 - 🎓 I've just graduated with a BSc in Artificial Intelligence from Radboud University.
 - 🔥 I'm currently studying my Master's at the Jheronimus Academy of Data Science.
-- 🌱 Check out my [portfolio]([portfolio]), which is running on a Raspberry Pi in my utility closet.
-- ⚡ I also like to [draw]([art.robingather.com]) and write.
+- 🌱 Check out my [project portfolio]([https://robingather.com/work-2]), which is running on a Raspberry Pi in my utility closet.
+- ⚡ I also like to [draw]([https://art.robingather.com]) and write.
 
 ### Human Languages
 
@@ -34,11 +34,12 @@
 <br />
 
 ### Web Development
-<img align="left" alt="Wordpress" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="Wordpress" width="26px" src="https://seeklogo.com/images/W/wordpress-icon-logo-45667D3313-seeklogo.com.png" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="NGINX" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Mailchimp" width="26px" src="https://seeklogo.com/images/M/mailchimp-logo-3E7CD3DDAA-seeklogo.com.png" style="padding-right:10px;" />
 
 <br />
 
@@ -66,6 +67,8 @@
 <img align="left" alt="Raspberry Pi" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Eclipse" width="26px" src="https://seeklogo.com/images/E/eclipse-logo-85FE4BEA34-seeklogo.com.png" style="padding-right:10px;" />
 <img align="left" alt="IntelliJ IDEA" width="26px" src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png" style="padding-right:10px;" />
+<img align="left" alt="LibreOffice" width="26px" src="https://seeklogo.com/images/L/libreoffice-logo-CBF29DE2BB-seeklogo.com.png" style="padding-right:10px;" />
+<img align="left" alt="Notion" width="26px" src="https://seeklogo.com/images/N/notion-app-logo-009B1538E8-seeklogo.com.png" style="padding-right:10px;" />
 
 <br />
 <br />
@@ -74,8 +77,7 @@
 
 
 
-<img align="left" alt="" width="26px" src="" style="padding-right:10px;" />
-<img align="left" alt="" width="26px" src="" style="padding-right:10px;" />
+
 
 
 ---
