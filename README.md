@@ -10,7 +10,11 @@
 
 ### Human Languages
 
-### Programming Languages:
+<img align="left" alt="Egnlish" width="26px" src="https://flagicons.lipis.dev/flags/4x3/gb.svg" style="padding-right:10px;" />
+<img align="left" alt="Dutch" width="26px" src="https://flagicons.lipis.dev/flags/4x3/nl.svg" style="padding-right:10px;" />
+<img align="left" alt="German" width="26px" src="https://flagicons.lipis.dev/flags/4x3/de.svg" style="padding-right:10px;" />
+
+### Programming Languages
 
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
@@ -22,6 +26,7 @@
 
 <img align="left" alt="Pytorch" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Scikit Learn" width="26px" src="https://commons.wikimedia.org/wiki/File:Scikit_learn_logo_small.svg" style="padding-right:10px;" />
 
 <br />
 
@@ -34,14 +39,14 @@
 
 <br />
 
-Android App Development: 
+### Android App Dev
 <img align="left" alt="Android" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="Kotlin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Firebase" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="padding-right:10px;" />
 
 <br />
 
-### Game Development
+### Game Dev
 <img align="left" alt="Unity" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" style="padding-right:10px;" />
 <img align="left" alt="OpenGL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
