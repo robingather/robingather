@@ -14,6 +14,8 @@
 <img align="left" alt="Dutch" width="26px" src="https://flagicons.lipis.dev/flags/4x3/nl.svg" style="padding-right:10px;" />
 <img align="left" alt="German" width="26px" src="https://flagicons.lipis.dev/flags/4x3/de.svg" style="padding-right:10px;" />
 
+<br />
+
 ### Programming Languages
 
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
@@ -26,7 +28,7 @@
 
 <img align="left" alt="Pytorch" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Scikit Learn" width="26px" src="https://commons.wikimedia.org/wiki/File:Scikit_learn_logo_small.svg" style="padding-right:10px;" />
+<img align="left" alt="Scikit Learn" width="26px" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" style="padding-right:10px;" />
 
 <br />
 
