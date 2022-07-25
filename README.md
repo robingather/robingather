@@ -29,6 +29,7 @@
 <img align="left" alt="Pytorch" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Scikit Learn" width="26px" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" style="padding-right:10px;" />
+<img align="left" alt="Seaborn" width="26px" src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" style="padding-right:10px;" />
 
 <br />
 
@@ -43,8 +44,11 @@
 
 ### Android App Dev
 <img align="left" alt="Android" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="Android Studio" width="26px" src="https://seeklogo.com/images/A/android-studio-logo-1EE788C6EC-seeklogo.com.png" style="padding-right:10px;" />
 <img align="left" alt="Kotlin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Firebase" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="Google Play Console" width="26px" src="https://seeklogo.com/images/G/google-play-logo-C0F8C12322-seeklogo.com.png" style="padding-right:10px;" />
+<img align="left" alt="Google Admob" width="26px" src="https://seeklogo.com/images/G/google-admob-logo-09A4DF4C15-seeklogo.com.png" style="padding-right:10px;" />
 
 <br />
 
@@ -59,11 +63,20 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
-
 <img align="left" alt="Raspberry Pi" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Eclipse" width="26px" src="https://seeklogo.com/images/E/eclipse-logo-85FE4BEA34-seeklogo.com.png" style="padding-right:10px;" />
+<img align="left" alt="IntelliJ IDEA" width="26px" src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png" style="padding-right:10px;" />
 
 <br />
 <br />
+
+
+
+
+
+<img align="left" alt="" width="26px" src="" style="padding-right:10px;" />
+<img align="left" alt="" width="26px" src="" style="padding-right:10px;" />
+
 
 ---
 
