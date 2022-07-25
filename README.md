@@ -9,8 +9,11 @@
 - 🍑 I also like to [draw](http://art.robingather.com), write and go to the gym.
 
 ▶ [more about me...](http://robingather.com/about)
+
 ▶ [my website](http://robingather.com)
+
 ▶ [LinkedIn](https://linkedin.com/in/robingather)
+
 ---
 
 ### Human Languages
