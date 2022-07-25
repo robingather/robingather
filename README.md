@@ -73,7 +73,7 @@
 <img align="left" alt="IntelliJ IDEA" width="26px" src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png" style="padding-right:10px;" />
 <img align="left" alt="LibreOffice" width="26px" src="https://seeklogo.com/images/L/libreoffice-logo-CBF29DE2BB-seeklogo.com.png" style="padding-right:10px;" />
 <img align="left" alt="Notion" width="26px" src="https://seeklogo.com/images/N/notion-app-logo-009B1538E8-seeklogo.com.png" style="padding-right:10px;" />
-
+<img align="left" alt="Notepad++" width="26px" src="https://seeklogo.com/images/N/notepad-logo-DEA8568756-seeklogo.com.png" style="padding-right:10px;" />
 <br />
 <br />
 
