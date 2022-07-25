@@ -9,7 +9,8 @@
 - 🍑 I also like to [draw](http://art.robingather.com), write and go to the gym.
 
 ▶ [more about me...](http://robingather.com/about)
-
+▶ [my website](http://robingather.com)
+▶ [LinkedIn](https://linkedin.com/in/robingather)
 ---
 
 ### Human Languages
@@ -69,20 +70,15 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Raspberry Pi" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Bash" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Eclipse" width="26px" src="https://seeklogo.com/images/E/eclipse-logo-85FE4BEA34-seeklogo.com.png" style="padding-right:10px;" />
 <img align="left" alt="IntelliJ IDEA" width="26px" src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png" style="padding-right:10px;" />
+<img align="left" alt="MATLAB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" style="padding-right:10px;" />
 <img align="left" alt="LibreOffice" width="26px" src="https://seeklogo.com/images/L/libreoffice-logo-CBF29DE2BB-seeklogo.com.png" style="padding-right:10px;" />
 <img align="left" alt="Notion" width="26px" src="https://seeklogo.com/images/N/notion-app-logo-009B1538E8-seeklogo.com.png" style="padding-right:10px;" />
 <img align="left" alt="Notepad++" width="26px" src="https://seeklogo.com/images/N/notepad-logo-DEA8568756-seeklogo.com.png" style="padding-right:10px;" />
+
 <br />
-<br />
-
-
-
-
-
-
-
 
 ---
 
@@ -95,4 +91,5 @@
 
 ▶ [more work...](http://robingather.com/work-2)
 
----
+
+
