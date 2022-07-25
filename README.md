@@ -34,7 +34,7 @@
 
 <br />
 
-### Android App Development
+Android App Development: 
 <img align="left" alt="Android" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="Kotlin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Firebase" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="padding-right:10px;" />
