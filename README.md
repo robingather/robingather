@@ -1,12 +1,16 @@
 # Hello, My name is Robin Gather 👀
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-## I do software engineering
+## Software Engineering <br> is < my passion []]>
 
 - 🎓 I've just graduated with a BSc in Artificial Intelligence from Radboud University.
-- 🔥 I'm currently studying my Master's at the Jheronimus Academy of Data Science.
-- 🌱 Check out my [project portfolio]([https://robingather.com/work-2]), which is running on a Raspberry Pi in my utility closet.
-- ⚡ I also like to [draw]([https://art.robingather.com]) and write.
+- 🔥 I'm currently studying my Master's at the Jheronimus Academy of Data Science in Den Bosch.
+- 🙌 Check out my [project portfolio](http://robingather.com/work-2), which is running on a Raspberry Pi in my utility closet.
+- 🍑 I also like to [draw](http://art.robingather.com), write and go to the gym.
+
+▶ [more about me...](http://robingather.com/about)
+
+---
 
 ### Human Languages
 
@@ -85,10 +89,10 @@
 ### 🌟 Latest Work
 
 - [El Torro Website](http://www.robingather.com/work-2#block-eltorro)
-- [Galactic Idle (Android Game)](https://www.robingather.com/work-2#block-galactic-idle)
-- [Celestial Sounds - Sleep in Space (Android App)](https://www.robingather.com/work-2#celestial-sounds)
-- [Any Journey - Procedural Open-World RPG](https://www.robingather.com/work-2#block-any-journey)
+- [Galactic Idle (Android Game)](http://www.robingather.com/work-2#block-galactic-idle)
+- [Celestial Sounds - Sleep in Space (Android App)](http://www.robingather.com/work-2#celestial-sounds)
+- [Any Journey - Procedural Open-World RPG](http://www.robingather.com/work-2#block-any-journey)
 
-➡️ [more work...](https://robingather.com/work)
+▶ [more work...](http://robingather.com/work-2)
 
 ---
