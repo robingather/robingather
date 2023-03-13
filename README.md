@@ -40,6 +40,7 @@
 <img align="left" alt="Scikit Learn" width="26px" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" style="padding-right:10px;" />
 <img align="left" alt="Seaborn" width="26px" src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" style="padding-right:10px;" />
 <img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" style="padding-right:10px;" />
+<img align="left" alt="R" width="26px" src="https://seeklogo.com/images/P/power-bi-icon-logo-E1B451ED39-seeklogo.com.png" style="padding-right:10px;" />
 
 <br />
 
@@ -49,7 +50,7 @@
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="NGINX" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Mailchimp" width="26px" src="https://seeklogo.com/images/M/mailchimp-logo-3E7CD3DDAA-seeklogo.com.png" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="26px" src="https://seeklogo.com/images/G/google-analytics-logo-879A9F173A-seeklogo.com.png" style="padding-right:10px;" />
 
 <br />
 
