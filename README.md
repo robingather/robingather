@@ -82,4 +82,6 @@
 <img align="left" alt="IntelliJ IDEA" width="26px" src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png" style="padding-right:10px;" />
 <img align="left" alt="Notepad++" width="26px" src="https://seeklogo.com/images/N/notepad-logo-DEA8568756-seeklogo.com.png" style="padding-right:10px;" />
 
+<br />
+
 See you around!
