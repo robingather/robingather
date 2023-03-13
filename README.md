@@ -75,6 +75,7 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Excel" width="26px" src="https://seeklogo.com/images/E/excel-logo-974BFF9CB9-seeklogo.com.png" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Bash" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Eclipse" width="26px" src="https://seeklogo.com/images/E/eclipse-logo-85FE4BEA34-seeklogo.com.png" style="padding-right:10px;" />
