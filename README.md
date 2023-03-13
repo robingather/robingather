@@ -32,6 +32,9 @@
 
 ### Artificial Intelligence / Machine Learning
 
+<img align="left" alt="Anaconda" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Jupyter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Pytorch" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Scikit Learn" width="26px" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" style="padding-right:10px;" />
@@ -69,26 +72,12 @@
 
 ### Tools
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Excel" width="26px" src="https://seeklogo.com/images/E/excel-logo-974BFF9CB9-seeklogo.com.png" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Excel" width="26px" src="https://seeklogo.com/images/E/excel-logo-974BFF9CB9-seeklogo.com.png" style="padding-right:10px;" />
 <img align="left" alt="Bash" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Eclipse" width="26px" src="https://seeklogo.com/images/E/eclipse-logo-85FE4BEA34-seeklogo.com.png" style="padding-right:10px;" />
 <img align="left" alt="IntelliJ IDEA" width="26px" src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png" style="padding-right:10px;" />
 <img align="left" alt="Notepad++" width="26px" src="https://seeklogo.com/images/N/notepad-logo-DEA8568756-seeklogo.com.png" style="padding-right:10px;" />
 
-<br />
-
----
-
-### 🌟 Latest Work
-
-- [El Torro Website](http://www.robingather.com/work-2#block-eltorro)
-- [Galactic Idle (Android Game)](http://www.robingather.com/work-2#block-galactic-idle)
-- [Celestial Sounds - Sleep in Space (Android App)](http://www.robingather.com/work-2#celestial-sounds)
-- [Any Journey - Procedural Open-World RPG](http://www.robingather.com/work-2#block-any-journey)
-
-▶ [View my portfolio](http://robingather.com/work-2)
-
-
-
+See you around!
