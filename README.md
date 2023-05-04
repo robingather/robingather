@@ -6,7 +6,7 @@
 - 🎓 I've graduated with a BSc in Artificial Intelligence from Radboud University.
 - 🔥 I'm currently studying my Master's at the Jheronimus Academy of Data Science in Den Bosch.
 - 🙌 Check out my [project portfolio](http://robingather.com/work), which is running on my own webserver.
-- 🍑 I also like to [draw](http://art.robingather.com), write and go to the gym.
+<!-- - 🍑 I also like to [draw](http://art.robingather.com), write and go to the gym. -->
 
 ▶ [More about me](http://robingather.com/about)<br>
 ▶ [My website](http://robingather.com)<br>
