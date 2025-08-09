@@ -32,4 +32,4 @@
 ![English](https://img.shields.io/badge/English-EN-red?style=for-the-badge)
 ![German](https://img.shields.io/badge/German-DE-black?style=for-the-badge)
 
-<p align="center">© 2025 Robin Gather — Building beautiful and fun tools.</p>
+<p align="center">© 2025 Robin Gather — Building fun and pretty tools.</p>
