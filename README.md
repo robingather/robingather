@@ -1,6 +1,6 @@
 <h1 align="center">Welcome — I’m Adam Rendo</h1>
 
-![](https://komarev.com/ghpvc/?username=AdamRendo&color=006bed)
+![](https://komarev.com/ghpvc/?username=robingather&color=006bed)
 
 <h3> :man: &nbsp;About Me</h3>
 
@@ -32,4 +32,4 @@
 ![English](https://img.shields.io/badge/English-EN-red?style=for-the-badge)
 ![German](https://img.shields.io/badge/German-DE-black?style=for-the-badge)
 
-<p align="center">© 2025 Robin Gather — Building with discipline, beauty, and intent.</p>
+<p align="center">© 2025 Robin Gather — Building beautiful and fun tools.</p>
