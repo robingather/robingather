@@ -6,9 +6,9 @@
 
 - 💡 &nbsp; Building products at the intersection of **AI, data, and creative tools**.  
 - 🎓 &nbsp; BSc in **Artificial Intelligence** and MSc in **Data Science in Business & Entrepreneurship**.  
-- 💼 &nbsp; Software Engineer at **Republiq** — working with Python, JavaScript, and AI/data stacks.  
-- 🎯 &nbsp; Creating tools, games, and projects that **people love enough to pay for**.  
-- 🏋️ &nbsp; 5x/week gym rat — chasing an aesthetic physique, discipline, and focus.
+- 💼 &nbsp; Software Engineer by trade — working with Python, JavaScript, and AI/data stacks. 
+- ☁️ &nbsp; AWS Certified Cloud Practitioner.
+- 🏋️ &nbsp; 5x/week gym rat
 
 <h3> :rocket: &nbsp;Tech & Tools</h3>
 
@@ -22,12 +22,14 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VSCode](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-<h3> :art: &nbsp;Interests</h3>
+<h3> 🗣️ &nbsp;Languages I Speak</h3>
 
-- 🎮 &nbsp; Dark, immersive games — *Dark Souls*, *Baldur’s Gate 3*, *Mass Effect*.  
-- ✏️ &nbsp; Drawing — mostly melancholic, atmospheric works.  
-- 🎹 &nbsp; Piano — building muscle memory for creation, not performance.  
-- 📚 &nbsp; Design, storytelling, and creating experiences with emotional weight.
+![Dutch](https://img.shields.io/badge/Dutch-NL-blue?style=for-the-badge)
+![English](https://img.shields.io/badge/English-EN-red?style=for-the-badge)
+![German](https://img.shields.io/badge/German-DE-black?style=for-the-badge)
 
 <p align="center">© 2025 Robin Gather — Building with discipline, beauty, and intent.</p>
