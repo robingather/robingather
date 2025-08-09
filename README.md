@@ -30,10 +30,4 @@
 - 🎹 &nbsp; Piano — building muscle memory for creation, not performance.  
 - 📚 &nbsp; Design, storytelling, and creating experiences with emotional weight.
 
-<h3> 🌍 &nbsp;Find Me</h3>
-
-[![Email](https://img.shields.io/badge/adamrendo@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:adamrendo@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/Adam%20Rendo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adamrendo)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://adamrendo.com)
-
-<p align="center">© 2025 Adam Rendo — Building with discipline, beauty, and intent.</p>
+<p align="center">© 2025 Robin Gather — Building with discipline, beauty, and intent.</p>
