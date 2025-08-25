@@ -8,7 +8,7 @@
 - 🎓 &nbsp; BSc in **Artificial Intelligence** and MSc in **Data Science in Business & Entrepreneurship**.  
 - 💼 &nbsp; Software Engineer by trade — working with Python, JavaScript, and AI/data stacks. 
 - ☁️ &nbsp; AWS Certified Cloud Practitioner.
-- 🏋️ &nbsp; 5x/week gym rat
+- 🏋️ &nbsp; Lifter
 
 <h3> :rocket: &nbsp;Tech & Tools</h3>
 
