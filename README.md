@@ -2,13 +2,13 @@
 
 ![](https://komarev.com/ghpvc/?username=robingather&color=006bed)
 
-<h3> :man: &nbsp;About Me</h3>
+<h3>About Me</h3>
 
-- 💡 &nbsp; Building products at the intersection of **AI, data, and creative tools**.  
-- 🎓 &nbsp; BSc in **Artificial Intelligence** and MSc in **Data Science in Business & Entrepreneurship**.  
-- 💼 &nbsp; Software Engineer by trade — working with Python, JavaScript, and AI/data stacks. 
-- ☁️ &nbsp; AWS Certified Cloud Practitioner.
-- 🏋️ &nbsp; Lifter
+- Building products at the intersection of **AI, data, and creative tools**.  
+- BSc in **Artificial Intelligence** and MSc in **Data Science in Business & Entrepreneurship**.  
+- Software Engineer by trade — working with Python, JavaScript, and AI/data stacks. 
+- AWS Certified Cloud Practitioner.
+- Lifter
 
 <h3> :rocket: &nbsp;Tech & Tools</h3>
 
