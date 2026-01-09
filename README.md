@@ -1,4 +1,4 @@
-<h1 align="center">Welcome — I’m Robin Gather</h1>
+<h1 align="center">Welcome</h1>
 
 ![](https://komarev.com/ghpvc/?username=robingather&color=006bed)
 
