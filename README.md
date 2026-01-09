@@ -10,7 +10,7 @@
 - AWS Certified Cloud Practitioner.
 - Lifter
 
-<h3> :rocket: &nbsp;Tech & Tools</h3>
+<h3>Tech & Tools</h3>
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -26,7 +26,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-<h3> 🗣️ &nbsp;Languages I Speak</h3>
+<h3>Languages I Speak</h3>
 
 ![Dutch](https://img.shields.io/badge/Dutch-NL-blue?style=for-the-badge)
 ![English](https://img.shields.io/badge/English-EN-red?style=for-the-badge)
