@@ -6,9 +6,8 @@
 
 - Building products at the intersection of **AI, data, and creative tools**.  
 - BSc in **Artificial Intelligence** and MSc in **Data Science in Business & Entrepreneurship**.  
-- Software Engineer by trade — working with Python, JavaScript, and AI/data stacks. 
+- Software Engineer by trade. Working with Python, JavaScript, and AI/data stacks. 
 - AWS Certified Cloud Practitioner.
-- Lifter
 
 <h3>Tech & Tools</h3>
 
